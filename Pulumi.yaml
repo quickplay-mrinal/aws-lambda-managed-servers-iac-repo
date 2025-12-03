@@ -1,0 +1,3 @@
+name: lambda-managed-server
+runtime: python
+description: AWS Lambda Managed Instances demonstration with Pulumi IaC
