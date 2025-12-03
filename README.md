@@ -88,7 +88,7 @@ AWS Lambda Managed Instances provide a new compute option that combines:
 ---
 
 ## 🏗️ Architecture
-![Architecture](./Gemini_Generated_Image_1s20rq1s20rq1s20.png)
+![Architecture](./Architecture-Diagram.png)
 
 
 ---
